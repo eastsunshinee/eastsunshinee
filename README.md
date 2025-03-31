@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-👋 Hi, I'm Donghyun Kim
+👋 Hi, I'm Donghyun Kim  
 🚀 iOS Developer | Swift, SwiftUI, Combine  
-📌 Passionate about clean architecture
 
 <!--
+📌 Passionate about clean architecture
+
 **eastsunshinee/eastsunshinee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
